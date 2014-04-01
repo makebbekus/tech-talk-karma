@@ -20,3 +20,4 @@ Next Steps
 ----------
 
 * Sourcemaps in stacktraces: [exorcise](https://github.com/mikefrey/grunt-exorcise) + [karma-sourcemap-loader](https://github.com/demerzel3/karma-sourcemap-loader)
+* Run specs from Rubymine
